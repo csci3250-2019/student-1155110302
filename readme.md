@@ -29,17 +29,17 @@ csci3100 | ****
 
 ## CLI command used
 
-![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitBash_1.png)
+![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitBash_1.PNG)
 
-![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitBash_2.png)
-![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitBash_3.png)
+![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitBash_2.PNG)
+![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitBash_3.PNG)
 
 
 ### **Remember to create a new repository before -git push-**
 
-![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitHub_1.png)
+![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitHub_1.PNG)
 
-![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitHub_2.png)
+![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitHub_2.PNG)
 
 
 
