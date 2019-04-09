@@ -34,10 +34,10 @@ csci3100 | ****
 ![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitBash_2.PNG)
 ![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitBash_3.PNG)
 
-
-### **Remember to create a new repository before -git push-**
-
+## **Remember to create a new repository before _git push_**
+**Click New
 ![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitHub_1.PNG)
+** Enter the repo name
 
 ![alt text](https://github.com/csci3250-2019/student-1155110302/blob/master/gitHub_2.PNG)
 
