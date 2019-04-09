@@ -29,4 +29,18 @@ csci3100 | ****
 
 ## CLI command used
 
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitBash_1.png)
+
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitBash_2.png)
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitBash_3.png)
+
+
+### **Remember to create a new repository before -git push-**
+
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitHub_1.png)
+
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/gitHub_2.png)
+
+
+
 
